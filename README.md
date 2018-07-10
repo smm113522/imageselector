@@ -3,7 +3,8 @@
 一句话搞定 图片选择
 
 这是是我使用的情况是这样的。。你就会发现很有趣的东西。。
- private static final int REQUEST_CODE = 0x00000011;
+
+	private static final int REQUEST_CODE = 0x00000011;
     private static final int REQUEST_CAMERA_CODE_HEAD = 0x00000022;
 
 	BottomMenuDialog dialog1 = new BottomMenuDialog.BottomMenuBuilder()
