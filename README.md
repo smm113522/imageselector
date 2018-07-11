@@ -1,6 +1,6 @@
 # ImageSelector
 
-一句话搞定 图片选择
+一句话搞定 图片选择和照相
 
 这是是我使用的情况是这样的。。你就会发现很有趣的东西。。
 
@@ -119,6 +119,10 @@
                         .startPhotograph(REQUEST_CODE,mAdapter.getImages(),20)
 						这个是照相机的使用
                         .startPhotoCamera(REQUEST_CAMERA_CODE_HEAD);
+						
+## 适配android8功能
+
+http://p.codekk.com/detail/Android/steven2947/FitAndroid8
 
 
 ## 扩展 你也可以按照下面的进行选择图片
